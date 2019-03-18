@@ -1,5 +1,20 @@
 # Data description
-Edible coatings are commonly used in the food industry to make fruits and vegetables last longer, both for the benefit of the consumer and to reduce losses along the supply chain. Fruit may become inedible due to ripening or a variety of diseases/ disorders, and edible coatings seek to prevent or mitigate the effects of these issues. Mold on pineapples causes great losses along the supply chain, therefore this project seeks to develop a polymer-based edible coating formulation that will slow ripening by restricting the loss of water and access to oxygen which allow breakdown and drying out, with an incorporated antifungal agent to prevent mold growth. This will be done by comparing pineapples coated with various edible coating formulations and concentrations across a variety of analyses, as well as comparing the coating formulations themselves and films made from them.
+This project will endeavor to answer the following questions: What formulation of edible coating best extends the post-harvest shelf life of pineapple fruits? What matrix components at what concentrations best form the necessary microenvironment around the fruit to slow physical and microbial degradation? To answer these questions, the physiological changes which indicate ripening of pineapples will be compared within and between treatments in an experimental design by collecting quantitative data of the weight loss, color change, firmness, titratable acidity (TA), and sugar content (TSS), as well as fungal and microbial growth. All of these variables will be measured or calculated as necessary according to the metadata protocol maintained by the lab. All values will be ultimately numerical, and maintained in an Excel spreadsheet format for the purposes of data entry and analysis. Data collection requires a variety of experimental methods, equipment and instrumentation, including but not limited to the following:
+i.	A scale for weight loss measurements, with values uploaded into a spreadsheet.
+ii.	Photos taken with an iPhone camera, uploaded and arranged into folders with organized naming schemes indicating the date and  
+   treatment, as well as .txt files in each folder to explain the contents as necessary. 
+iii.	Color change values calculated with Hunter LAB colorimeter data, entered into an excel spreadsheet, compared to the initial color.
+iv.	Firmness assessed with a texture analyzer and Exponent Connect software, by plunging a stainless-steel cylinder into the pineapple 
+    flesh and assessing the Newtons of force necessary.
+v. TA and TSS and analyzed by blending sample in a Proctor Silex blender for one minute, then using a handheld refractometer to measure 
+    TSS, and a pH meter to titrate with 0.1N NaOH and calculate to find % equivalent citric acid for TA.
+vi.	Antifungal capacity tested by plating buffer water massaged on the pineapple surface onto Petri dishes and counting mold colonies 
+    that grow after one week.
+vii.	All parameters will be averaged across all pineapples analyzed and the standard deviation found and reported, with SAS software 
+    used to assess statistically significant differences via ANOVA and post-hoc LSD.
+
+All of the datasets together except photos will be kept in one excel spreadsheet, each on a different page, all of which should not exceed 1 MB total. Because of the short shelf life of pineapple fruits, the opportunities for photos are few, thus will not exceed 1 GB.
+
 
 # Roles and responsibilities
 Because of the nature of this research, almost all of the responsibilities with the data belong to myself, the primary researcher, especially with raw data. These obligations include collection, uploading and organization of the data for each preliminary and final trial with different pineapple coatings, as well as synthesis and analysis of the data. The PI will be implementing the DMP, as well as assistsing with data analysis, communication, publication and presentation, and setting metadata protocols for the lab. The lab post-doc may help with data collection and instrument maintenance. The funding for this project comes contractually through the company FiberLean, but they will not collect or receive any raw data.
